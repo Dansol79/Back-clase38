@@ -1,0 +1,28 @@
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar sms, Error: Authenticate"}
+{"level":"error","message":"Error al enviar whatsapp, Error: Authenticate"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al generar pedido, TypeError: Class constructor productsForIndexDTO cannot be invoked without 'new'"}
+{"level":"error","message":"Error al generar pedido, TypeError: Class constructor productsForIndexDTO cannot be invoked without 'new'"}
+{"level":"error","message":"Error al obtener todos los productos de la db: ReferenceError: query is not defined"}
+{"level":"error","message":"Error al obtener todos los productos de la db: ReferenceError: query is not defined"}
+{"level":"error","message":"Error al obtener todos los productos de la db: ReferenceError: query is not defined"}
+{"level":"error","message":"Error al generar pedido, TypeError: Class constructor productsForIndexDTO cannot be invoked without 'new'"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al generar pedido, TypeError: Class constructor productsForIndexDTO cannot be invoked without 'new'"}
+{"level":"error","message":"Error al generar pedido, TypeError: Class constructor productsForIndexDTO cannot be invoked without 'new'"}
+{"level":"error","message":"Error al obtener el producto de la db: CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
+{"level":"error","message":"Error al obtener el producto de la db: CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
+{"level":"error","message":"Error al enviar el email: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":"error","message":"Error al agregar el producto al carrito: TypeError: Cannot read property 'id' of undefined"}
